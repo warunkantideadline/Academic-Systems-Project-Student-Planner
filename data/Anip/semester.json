@@ -1,0 +1,40 @@
+[
+    {
+        "id": "SMT_1c46a75e77",
+        "nama": "Semester 6",
+        "tahun_akademik": "2025\/2026",
+        "status": "aktif",
+        "created_at": "2026-03-30"
+    },
+    {
+        "id": "SMT_69942cb880",
+        "nama": "Semester 1",
+        "tahun_akademik": "2023\/2024",
+        "status": "selesai",
+        "created_at": "2026-03-30"
+    },
+    {
+        "id": "_0f63296b39",
+        "nama": "Semester 2",
+        "tahun_akademik": "2023\/2024",
+        "status": "selesai"
+    },
+    {
+        "id": "_0f632cff96",
+        "nama": "Semester 3",
+        "tahun_akademik": "2024\/2025",
+        "status": "selesai"
+    },
+    {
+        "id": "_0f632d0741",
+        "nama": "Semester 4",
+        "tahun_akademik": "2024\/2025",
+        "status": "selesai"
+    },
+    {
+        "id": "_0f632d0949",
+        "nama": "Semester 5",
+        "tahun_akademik": "2025\/2026",
+        "status": "selesai"
+    }
+]
