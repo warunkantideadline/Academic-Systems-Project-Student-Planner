@@ -11,3 +11,5 @@ Thumbs.db
 
 # ── XAMPP / local environment ────────────────────────
 /.htaccess
+
+.gitignore
