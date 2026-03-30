@@ -1,15 +1,4 @@
-# ── User Data (PRIVATE) ──────────────────────────────
-/data/
-
-# ── Config sensitif ──────────────────────────────────
-/config/database.php
-
-# ── Cache & system files ─────────────────────────────
-.DS_Store
-Thumbs.db
-*.log
-
-# ── XAMPP / local environment ────────────────────────
-/.htaccess
-
-.gitignore
+git rm -r --cached data/
+git add .
+git commit -m "remove data folder from git tracking"
+git push
